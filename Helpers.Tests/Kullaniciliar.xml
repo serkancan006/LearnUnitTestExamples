@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Kullanicilar>
+	<Kullanici ad="Salih" telefon="32656565" email="salih@golig.net" />
+	<Kullanici ad="Serkan" telefon="6585696856" email="serkan@golig.net" />
+	<Kullanici ad="Can" telefon="452" email="can@golig.net" />
+	<Kullanici ad="Nuri" telefon="8562215aa" email="nuri@golig.net" />
+	<Kullanici ad="Mehmet" telefon="85696585" email="mehmet.golig.net" />
+</Kullanicilar>
